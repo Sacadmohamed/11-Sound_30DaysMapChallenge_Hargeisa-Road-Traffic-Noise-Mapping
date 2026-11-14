@@ -2,8 +2,9 @@
 
 ### A GIS-based preliminary spatial screening model for assessing potential road traffic noise influence in Hargeisa, Somaliland
 
-<img width="4200" height="3300" alt="Hargeisa_Traffic_Noise_Potential" src="https://github.com/user-attachments/assets/f8b638af-2388-47f3-9bb3-cc73241a6751" />
 <img width="3900" height="3000" alt="Hargeisa_Urban_Traffic_Noise_Potential" src="https://github.com/user-attachments/assets/e0e2ae93-00c6-4853-ac10-a6aa6d835c24" />
+<img width="4200" height="3300" alt="Hargeisa_Traffic_Noise_Potential" src="https://github.com/user-attachments/assets/f8b638af-2388-47f3-9bb3-cc73241a6751" />
+
 
 
 
@@ -241,9 +242,6 @@ The project generates the following outputs:
 | District-level map | PNG | Traffic noise potential across the study area |
 | Urban-level map | PNG | Detailed visualization of the urban area |
 
-### Final urban map
-
-![Urban Traffic Noise Potential](Outputs/Maps/Hargeisa_Urban_Traffic_Noise_Potential.png)
 
 ## 9. How to Run the Project
 
